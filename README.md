@@ -7,8 +7,8 @@ This repository contains my solutions for Leet Code Challenge of July 2020
 - [x] Day 5
 - [x] Day 6
 - [x] Day 7
-- [ ] Day 8
-- [ ] Day 9
+- [x] Day 8
+- [x] Day 9
 - [ ] Day 10
 - [ ] Day 11
 - [ ] Day 12
