@@ -12,7 +12,7 @@ This repository contains my solutions for Leet Code Challenge of July 2020
 - [x] Day 10
 - [x] Day 11
 - [x] Day 12
-- [ ] Day 13
+- [x] Day 13
 - [ ] Day 14
 - [ ] Day 15
 - [ ] Day 16
