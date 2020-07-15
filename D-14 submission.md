@@ -44,3 +44,23 @@ Calculate the angles separately then find the difference.
 
 
 ## :peach: Solution
+
+```
+class Solution {
+    public double angleClock(int hour, int minutes) {
+        double h,m,a,x;
+        if(hour==12){
+            hour=0;
+            if(minutes==60){
+                minutes=0;
+                hour+=1;
+            }
+        }
+        h=(0.5 * (hour*60 + minutes)); 
+        m=minutes*6;
+        x=Math.abs(h-m);
+        a=Math.min(360-x,x);
+        return a;
+    }
+}
+```
