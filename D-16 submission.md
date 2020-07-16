@@ -24,5 +24,11 @@ n is a 32-bit signed integer, within the range [−231, 231 − 1]
 ## :peach: Solution
 
 ```
-
+class Solution {
+    public double myPow(double x, int n) {
+        double res=0;
+        res=Math.pow(x,n);
+        return res;
+    }
+}
 ```
