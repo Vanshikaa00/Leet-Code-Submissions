@@ -23,7 +23,7 @@ This repository contains my solutions for Leet Code Challenge of July 2020
 - [ ] Day 21
 - [x] Day 22
 - [x] Day 23
-- [ ] Day 24
+- [x] Day 24
 - [ ] Day 25
 - [ ] Day 26
 - [ ] Day 27
