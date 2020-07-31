@@ -30,4 +30,4 @@ This repository contains my solutions for Leet Code Challenge of July 2020
 - [x] Day 28
 - [x] Day 29
 - [x] Day 30
-- [ ] Day 31
+- [x] Day 31
