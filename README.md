@@ -1,4 +1,5 @@
 # Leet-Code-Submissions
+
 This repository contains my solutions for Leet Code Challenge of July 2020 
 - [x] Day 1
 - [x] Day 2
